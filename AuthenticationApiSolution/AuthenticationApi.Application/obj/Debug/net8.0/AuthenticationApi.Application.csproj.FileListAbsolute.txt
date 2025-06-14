@@ -1,0 +1,16 @@
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.deps.json
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.dll
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.pdb
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.AssemblyInfoInputs.cache
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.AssemblyInfo.cs
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.sourcelink.json
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.dll
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\refint\AuthenticationApi.Application.dll
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.pdb
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\ref\AuthenticationApi.Application.dll
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\SharedLibrary.dll
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\SharedLibrary.pdb
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.csproj.AssemblyReference.cache
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\Authenti.F26204DC.Up2Date

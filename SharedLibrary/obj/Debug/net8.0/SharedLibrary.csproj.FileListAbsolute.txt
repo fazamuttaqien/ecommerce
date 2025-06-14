@@ -10,3 +10,4 @@ C:\Users\fazamuttaqien\Documents\.NET\ECommerce\SharedLibrary\obj\Debug\net8.0\S
 C:\Users\fazamuttaqien\Documents\.NET\ECommerce\SharedLibrary\obj\Debug\net8.0\refint\SharedLibrary.dll
 C:\Users\fazamuttaqien\Documents\.NET\ECommerce\SharedLibrary\obj\Debug\net8.0\SharedLibrary.pdb
 C:\Users\fazamuttaqien\Documents\.NET\ECommerce\SharedLibrary\obj\Debug\net8.0\ref\SharedLibrary.dll
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\SharedLibrary\obj\Debug\net8.0\SharedLibrary.sourcelink.json
