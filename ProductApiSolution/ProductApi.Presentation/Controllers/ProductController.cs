@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ProductApi.Application.DTOs;
 using ProductApi.Application.DTOs.Conversions;
@@ -8,6 +9,7 @@ namespace ProductApi.Presentation.Controllers {
 
     [Route("api/[controller]")]
     [ApiController]
+    [AllowAnonymous]
     public class ProductController(IProduct productInterface) : ControllerBase {
         [HttpGet]
         public async Task<ActionResult<IEnumerable<ProductDTO>>> GetProducts() {
@@ -36,6 +38,7 @@ namespace ProductApi.Presentation.Controllers {
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<Response>> CreateProduct(ProductDTO product) {
             // Check model state is all data annotations are passed
             if (!ModelState.IsValid) {
@@ -50,6 +53,7 @@ namespace ProductApi.Presentation.Controllers {
         }
 
         [HttpPut]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<Response>> UpdateProduct(ProductDTO product) {
             // Check model state is all data annotations are passed
             if (!ModelState.IsValid) {
@@ -64,6 +68,7 @@ namespace ProductApi.Presentation.Controllers {
         }
 
         [HttpDelete]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<Response>> DeleteProduct(ProductDTO product) {
             // Convert to entity
             var getEntity = ProductConversion.ToEntity(product);

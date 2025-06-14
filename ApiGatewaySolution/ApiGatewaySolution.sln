@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway.Presentation", "ApiGateway.Presentation\ApiGateway.Presentation.csproj", "{2258D9AE-18DD-4357-BA26-1B8F0118560D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "..\SharedLibrary\SharedLibrary.csproj", "{970BDAF3-119F-EBBA-A3A8-28A80F1DF622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2258D9AE-18DD-4357-BA26-1B8F0118560D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2258D9AE-18DD-4357-BA26-1B8F0118560D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2258D9AE-18DD-4357-BA26-1B8F0118560D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2258D9AE-18DD-4357-BA26-1B8F0118560D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970BDAF3-119F-EBBA-A3A8-28A80F1DF622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970BDAF3-119F-EBBA-A3A8-28A80F1DF622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970BDAF3-119F-EBBA-A3A8-28A80F1DF622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970BDAF3-119F-EBBA-A3A8-28A80F1DF622}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D30C901A-217D-4DF6-B55A-A1F567BE38BB}
+	EndGlobalSection
+EndGlobal

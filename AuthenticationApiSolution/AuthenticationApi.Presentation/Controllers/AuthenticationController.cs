@@ -1,15 +1,21 @@
 using AuthenticationApi.Application.DTOs;
 using AuthenticationApi.Application.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using SharedLibrary.Responses;
 
 namespace AuthenticationApi.Presentation.Controllers {
+
     [Route("api/[controller]")]
     [ApiController]
-    public class AuthenticationController(IUser userInterface) : ControllerBase {
+    [AllowAnonymous]
+    public class AuthenticationController(IUser userInterface) : ControllerBase
+    {
         [HttpPost("register")]
-        public async Task<ActionResult<Response>> Register(AppUserDTO appUserDTO) {
-            if (!ModelState.IsValid) {
+        public async Task<ActionResult<Response>> Register(AppUserDTO appUserDTO)
+        {
+            if (!ModelState.IsValid)
+            {
                 return BadRequest(ModelState);
             }
 
@@ -18,8 +24,10 @@ namespace AuthenticationApi.Presentation.Controllers {
         }
 
         [HttpPost("login")]
-        public async Task<ActionResult<Response>> Login(LoginDTO loginDTO) {
-            if (!ModelState.IsValid) {
+        public async Task<ActionResult<Response>> Login(LoginDTO loginDTO)
+        {
+            if (!ModelState.IsValid)
+            {
                 return BadRequest(ModelState);
             }
 
@@ -28,6 +36,7 @@ namespace AuthenticationApi.Presentation.Controllers {
         }
 
         [HttpPost("{id:int}")]
+        [Authorize]
         public async Task<ActionResult<GetUserDTO>> GetUser(int id) {
             if (id <= 0) {
                 return BadRequest("Invalid user Id");
