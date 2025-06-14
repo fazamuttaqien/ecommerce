@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9lYvmjUtRO8lHdMBbJtyWi7ZSTlnTos7hw1OS/dDgkM=",
+  "Source": "OrderApi.Presentation",
+  "BasePath": "_content/OrderApi.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

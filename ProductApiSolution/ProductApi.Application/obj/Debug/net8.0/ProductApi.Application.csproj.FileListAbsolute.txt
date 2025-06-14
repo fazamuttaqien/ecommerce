@@ -1,0 +1,17 @@
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.deps.json
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.dll
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.pdb
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.dll
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\SharedLibrary.dll
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\SharedLibrary.pdb
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.pdb
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.AssemblyReference.cache
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfoInputs.cache
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfo.cs
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductA.E443A747.Up2Date
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.dll
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\refint\ProductApi.Application.dll
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.pdb
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ref\ProductApi.Application.dll

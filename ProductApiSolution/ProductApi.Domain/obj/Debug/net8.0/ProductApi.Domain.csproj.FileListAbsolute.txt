@@ -1,0 +1,11 @@
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.deps.json
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.dll
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.pdb
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfoInputs.cache
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfo.cs
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.dll
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\refint\ProductApi.Domain.dll
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.pdb
+C:\Users\fazamuttaqien\Documents\.NET\ECommerce\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ref\ProductApi.Domain.dll
